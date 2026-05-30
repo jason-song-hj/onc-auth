@@ -14,7 +14,7 @@
 
 ## 怎么在 Claude 或者其他支持Skills的平台里用？
 
-把SKILL.md下载后重命名为onc-auth.skill, 传入Claude, 让Claude添加Skills即可；
+把SKILL.md下载后传入Claude, 让Claude添加Skills即可；
 
 ### 方式一：触发词激活（推荐）
 
