@@ -1,4 +1,4 @@
-# onc-auth Skill — 使用说明
+# onc-auth Skill_v0.1 — 使用说明
 
 > 锐捷ONC网络控制器认证流程的 Claude Skill；当需要对ONC系统进行API调用、获取token、或者需要了解ONC登录流程时使用此skill。适用于所有涉及ONC REST API对接、curl测试、Python脚本调用ONC接口的场景。
 
